@@ -1,0 +1,6 @@
+S = str(input())
+T = str(input())
+LengthS = int(len(S))
+LengthT = int(len(T))
+print(LengthS,LengthT)
+print(S,T)
